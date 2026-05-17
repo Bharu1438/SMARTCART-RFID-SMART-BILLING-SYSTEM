@@ -86,7 +86,7 @@ Indicates that the product information has been successfully updated in the syst
 ---
 
 ### 💰 Product Price & Total Bill
-![Billing](Images/Image5.png)
+![Billing](Images/image5.png)
 
 Displays the scanned product price along with the updated total cart value.
 

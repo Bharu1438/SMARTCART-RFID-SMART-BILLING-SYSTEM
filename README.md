@@ -44,7 +44,7 @@ It simplifies shopping by eliminating manual billing and reducing checkout time.
 ## 🌄 Project Images
 
 ### ⏺️ Block Diagram
-![Block Diagram](Images/Image_0.jpg)
+![Block Diagram](Images/Image_0.png)
 
 ---
 

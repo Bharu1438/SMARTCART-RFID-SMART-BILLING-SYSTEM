@@ -1,0 +1,13 @@
+.\main.o: main.c
+.\main.o: C:\Keil\ARM\Inc\Philips\lpc214x.h
+.\main.o: uart0_header.h
+.\main.o: interrupt_header.h
+.\main.o: C:\Keil\ARM\Inc\Philips\lpc21xx.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\main.o: uart1_header.h
+.\main.o: lcd_header.h
+.\main.o: delay_header.h
+.\main.o: keypad_header.h
+.\main.o: rf_reader_header.h
+.\main.o: buzzer_header.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h

@@ -1,0 +1,6 @@
+-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork 
+-I C:\Keil\ARM\RV31\INC
+-I C:\Keil\ARM\CMSIS\Include
+-I C:\Keil\ARM\Inc\Philips
+
+-o .\rf_reader_file.o --omf_browse .\rf_reader_file.crf --depend .\rf_reader_file.d "rf_reader_file.c"

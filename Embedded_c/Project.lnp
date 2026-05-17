@@ -1,0 +1,15 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\uart0_file.o"
+".\uart1_file.o"
+".\interrupt_file.o"
+".\lcd_file.o"
+".\keypad_file.o"
+".\main.o"
+".\buzzer_file.o"
+".\rf_reader_file.o"
+".\delay_file.o"
+--strict --scatter ".\Project.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Project.map" -o .\Project.axf

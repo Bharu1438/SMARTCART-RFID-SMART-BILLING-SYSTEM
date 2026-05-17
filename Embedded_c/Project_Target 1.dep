@@ -1,0 +1,56 @@
+Dependencies for Project 'Project', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x532C14EA)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\uart0_file.c)(0x6A09527D)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\uart0_file.o --omf_browse .\uart0_file.crf --depend .\uart0_file.d)
+I (C:\Keil\ARM\Inc\Philips\lpc21xx.h)(0x69D69104)
+I (delay_header.h)(0x6A095171)
+I (uart0_header.h)(0x6A094A60)
+I (interrupt_header.h)(0x6A09525B)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7E87C)
+F (.\uart1_file.c)(0x6A09527E)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\uart1_file.o --omf_browse .\uart1_file.crf --depend .\uart1_file.d)
+I (C:\Keil\ARM\Inc\Philips\lpc21xx.h)(0x69D69104)
+I (uart1_header.h)(0x6A09525B)
+F (.\interrupt_file.c)(0x6A09527E)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\interrupt_file.o --omf_browse .\interrupt_file.crf --depend .\interrupt_file.d)
+I (interrupt_header.h)(0x6A09525B)
+I (C:\Keil\ARM\Inc\Philips\lpc21xx.h)(0x69D69104)
+I (uart0_header.h)(0x6A094A60)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7E87C)
+F (.\lcd_file.c)(0x6A094DB5)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\lcd_file.o --omf_browse .\lcd_file.crf --depend .\lcd_file.d)
+I (lcd_header.h)(0x6A094D6F)
+I (C:\Keil\ARM\Inc\Philips\lpc21xx.h)(0x69D69104)
+I (delay_header.h)(0x6A095171)
+F (.\keypad_file.c)(0x6A094E40)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\keypad_file.o --omf_browse .\keypad_file.crf --depend .\keypad_file.d)
+I (C:\Keil\ARM\Inc\Philips\lpc21xx.h)(0x69D69104)
+I (delay_header.h)(0x6A095171)
+I (keypad_header.h)(0x6A094DFF)
+F (.\main.c)(0x6A09525B)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil\ARM\Inc\Philips\lpc214x.h)(0x69EDF761)
+I (uart0_header.h)(0x6A094A60)
+I (interrupt_header.h)(0x6A09525B)
+I (C:\Keil\ARM\Inc\Philips\lpc21xx.h)(0x69D69104)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7E87C)
+I (uart1_header.h)(0x6A09525B)
+I (lcd_header.h)(0x6A094D6F)
+I (delay_header.h)(0x6A095171)
+I (keypad_header.h)(0x6A094DFF)
+I (rf_reader_header.h)(0x6A09525B)
+I (buzzer_header.h)(0x6A09525B)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7E87C)
+F (.\buzzer_file.c)(0x6A09525B)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\buzzer_file.o --omf_browse .\buzzer_file.crf --depend .\buzzer_file.d)
+I (buzzer_header.h)(0x6A09525B)
+I (C:\Keil\ARM\Inc\Philips\lpc21xx.h)(0x69D69104)
+I (delay_header.h)(0x6A095171)
+F (.\rf_reader_file.c)(0x6A09525B)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\rf_reader_file.o --omf_browse .\rf_reader_file.crf --depend .\rf_reader_file.d)
+I (rf_reader_header.h)(0x6A09525B)
+I (C:\Keil\ARM\Inc\Philips\lpc21xx.h)(0x69D69104)
+I (lcd_header.h)(0x6A094D6F)
+I (keypad_header.h)(0x6A094DFF)
+I (delay_header.h)(0x6A095171)
+I (uart0_header.h)(0x6A094A60)
+I (interrupt_header.h)(0x6A09525B)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7E87C)
+I (uart1_header.h)(0x6A09525B)
+I (buzzer_header.h)(0x6A09525B)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7E87C)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7E87C)
+F (.\delay_file.c)(0x6A0951C8)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\delay_file.o --omf_browse .\delay_file.crf --depend .\delay_file.d)
+I (delay_header.h)(0x6A095171)

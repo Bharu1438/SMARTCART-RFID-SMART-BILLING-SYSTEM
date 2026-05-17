@@ -1,0 +1,13 @@
+.\rf_reader_file.o: rf_reader_file.c
+.\rf_reader_file.o: rf_reader_header.h
+.\rf_reader_file.o: C:\Keil\ARM\Inc\Philips\lpc21xx.h
+.\rf_reader_file.o: lcd_header.h
+.\rf_reader_file.o: keypad_header.h
+.\rf_reader_file.o: delay_header.h
+.\rf_reader_file.o: uart0_header.h
+.\rf_reader_file.o: interrupt_header.h
+.\rf_reader_file.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\rf_reader_file.o: uart1_header.h
+.\rf_reader_file.o: buzzer_header.h
+.\rf_reader_file.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\rf_reader_file.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h

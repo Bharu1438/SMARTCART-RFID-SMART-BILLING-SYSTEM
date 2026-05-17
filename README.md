@@ -44,82 +44,82 @@ It simplifies shopping by eliminating manual billing and reducing checkout time.
 ## 🌄 Project Images
 
 ### ⏺️ Block Diagram
-![Block Diagram](Images/image_0.jpg)
+![Block Diagram](Images/Image_0.jpg)
 
 ---
 
 ### 🔌 Circuit Schematic
-![Circuit Schematic](Images/image_1.jpg)
+![Circuit Schematic](Images/Image_1.jpg)
 
 ---
 
 ### ▶️ Welcome Screen
-![Welcome](Images/image1.jpg)
+![Welcome](Images/Image1.jpg)
 
 ---
 
 ### 🔍 Scan Selection (Manager/Product)
-![Scan](Images/image2.jpg)
+![Scan](Images/Image2.jpg)
 
 ---
 
 ### ⚙️ Manager Updating Products
-![Manager Update](Images/image3.jpg)
+![Manager Update](Images/Image3.jpg)
 
 ---
 
 ### ✅ Product Update Success
-![Update Success](Images/image4.jpg)
+![Update Success](Images/Image4.jpg)
 
 ---
 
 ### 💰 Product Price & Total Bill
-![Billing](Images/image5.jpg)
+![Billing](Images/Image5.jpg)
 
 ---
 
 ### 🖥️ Product List on PC
-![PC Display](Images/image6.jpg)
+![PC Display](Images/Image6.jpg)
 
 ---
 
 ### ❌ Scan to Delete Product
-![Delete Scan](Images/image7.jpg)
+![Delete Scan](Images/Image7.jpg)
 
 ---
 
 ### 💸 Updated Price After Deletion
-![Delete Price](Images/image8.jpg)
+![Delete Price](Images/Image8.jpg)
 
 ---
 
 ### 🖥️ Updated Product List on PC
-![PC Updated](Images/image9.jpg)
+![PC Updated](Images/Image9.jpg)
 
 ---
 
 ### 💳 Payment Mode Selection
-![Payment Mode](Images/image10.jpg)
+![Payment Mode](Images/Image10.jpg)
 
 ---
 
 ### 🔢 Enter Amount
-![Enter Amount](Images/image11.jpg)
+![Enter Amount](Images/Image11.jpg)
 
 ---
 
 ### 💳 Swipe Card
-![Swipe](Images/image12.jpg)
+![Swipe](Images/Image12.jpg)
 
 ---
 
 ### ❗ Wrong PIN
-![Wrong PIN](Images/image13.jpg)
+![Wrong PIN](Images/Image13.jpg)
 
 ---
 
 ### 🎉 Transaction Success
-![Thank You](Images/image14.jpg)
+![Thank You](Images/Image14.jpg)
 
 ---
 

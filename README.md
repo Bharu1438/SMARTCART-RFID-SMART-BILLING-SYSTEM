@@ -45,6 +45,7 @@ It simplifies shopping by eliminating manual billing and reducing checkout time.
 
 ### ⏺️ Block Diagram
 ![Block Diagram](Images/Image_0.png)
+This diagram shows the overall architecture of the system, including the LPC2148 microcontroller connected with RFID reader, LCD, keypad, switches, and PC via UART.
 
 ---
 
